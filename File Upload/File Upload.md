@@ -6,7 +6,7 @@
 
 Hablamos de vulnerabilidades File Upload cuando un servidor web permite a los usuarios cargar archivos en su sistema sin realizar validaciones suficientes como son su nombre, tipo, contenido o tamaño. No hacer cumplir adecuadamente estas restricciones  podría significar que incluso una función básica de carga de imágenes se puede utilizar para cargar archivos arbitrarios y potencialmente peligrosos en su lugar. Esto podría incluso incluir archivos de script del lado del servidor que permiten la ejecución remota de código.
 
-![file-upload-vulnerabilities](./../img/File Upload/file-upload-vulnerabilities.jpg)
+![file-upload-vulnerabilities](./../File Upload/file-upload-vulnerabilities.jpg)
 
 ## ¿Que impacto pueden tener?
 
